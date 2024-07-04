@@ -6,5 +6,5 @@ group :jekyll_plugins do
   gem 'jekyll-github-metadata'
   gem 'jekyll-sitemap'
   gem 'jekyll-include-cache'
-  gem 'ffi', '~> 1.17'
+  gem 'ffi', '~> 1.16.3'
 end
